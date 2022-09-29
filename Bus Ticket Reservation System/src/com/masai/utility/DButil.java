@@ -18,10 +18,10 @@ public static Connection provideConnection() {
 			e.printStackTrace();
 		}
 		
-		String url="jdbc:mysql://localhost:3306/web19sb101db";
+		String url="jdbc:mysql://localhost:3306/busticket";
 		
 		try {
-			conn= DriverManager.getConnection(url,"root","root");
+			conn= DriverManager.getConnection(url,"root","iaminambalacantt");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
