@@ -10,4 +10,6 @@ public interface TicketDao {
 	public String ticketCancel(int busno, String name);
 	
 	public String adminLogin(String username, String password);
+	
+	
 }
