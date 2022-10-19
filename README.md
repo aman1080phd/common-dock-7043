@@ -4,7 +4,7 @@
 ![img](https://github.com/aman1080phd/common-dock-7043/blob/main/Bus%20Ticket%20Reservation%20System/adminLogin.PNG)
 
 
-![img](https://github.com/aman1080phd/common-dock-7043/blob/main/insertBusDetails.PNG)
+![img](https://github.com/aman1080phd/common-dock-7043/blob/main/Bus%20Ticket%20Reservation%20System/insertBusDetails.PNG)
 
 
 ## Passengers can Book Ticket by providing Source and Destination location
